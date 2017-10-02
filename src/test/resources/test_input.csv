@@ -1,0 +1,4 @@
+Entity,Direction,AgreedFx,Currency,InstructionDate,SettlementDate,Units,Price
+foo,B,0.5,SAR,01 Jan 2016,01 Jan 2016,200,100.25
+foo,B,0.5,SAR,01 Jan 2016,03 Jan 2016,200,100.25
+bar,S,0.22,AED,01 Jan 2016,03 Jan 2016,450,150.5
