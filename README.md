@@ -1,0 +1,2 @@
+# trade-reporting
+./gradlew run
